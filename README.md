@@ -1,2 +1,2 @@
 # TAIRP
-This repo stores the tasks given by Teac-A-Intern
+This repo stores the tasks given by Tech-A-Intern
